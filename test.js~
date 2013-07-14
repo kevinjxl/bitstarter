@@ -1,0 +1,14 @@
+var express = require('express');
+var fs = require('fs');
+
+fs.readFileSync('/home/ubuntu/startup/bitstarter/index.html')
+
+
+
+
+
+
+
+
+
+
